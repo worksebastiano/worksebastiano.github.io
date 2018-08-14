@@ -1,0 +1,60 @@
+@font-face {
+  font-family: AkzidenzGroteskBQ-Reg;
+  src: url(Font/AkzidenzGroteskBQ-Reg.woff);
+}
+
+body {
+     background-image:url(Preview_Website.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .h1 {
+  text-align: left;
+  position: absolute;
+  top: 0vh;
+  left:2vh;
+  padding:1px;
+  margin:1px;
+  font-family:AkzidenzGroteskBQ-Reg;
+}
+
+.h2 {
+ text-align: left;
+ position: absolute;
+ top: 2vh;
+ left:2vh;
+ padding:1px;
+ margin:1px;
+  font-family:AkzidenzGroteskBQ-Reg;
+}
+
+.h3 {
+text-align: left;
+position: absolute;
+top: 4vh;
+left:2vh;
+padding:1px;
+margin:1px;
+font-family:AkzidenzGroteskBQ-Reg;
+}
+
+.h4 {
+  position: absolute;
+  top:14vh;
+  left:2vh;
+  font-family:AkzidenzGroteskBQ-Reg;
+}
+.h5 {position: absolute;
+   top:16vh;
+   left:2vh;
+    font-family:AkzidenzGroteskBQ-Reg;
+}
+a {
+  color:black;
+  text-decoration: none;
+  font-family:AkzidenzGroteskBQ-Reg;
+}
+a:hover {
+   opacity:0.8;
+ }
